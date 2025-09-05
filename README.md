@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&width=600&lines=Full+Stack+Developer;Backend+Specialist;AI%2FNLP+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&width=600&lines=software-engineer;AI/machine+leanring+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-ait-baba-hamou)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayoub-ABH)
@@ -71,55 +71,6 @@ I'm a dedicated software engineer with a strong foundation in full-stack develop
 
 ---
 
-## 📂 Featured Projects
-
-### 🚗 **TAQA Morocco App Refactoring**
-**Enterprise Mobile Application Enhancement**
-
-A comprehensive refactoring project for TAQA Morocco's mobile application, focusing on performance optimization and user experience improvements.
-
-🔧 **Technologies:** Laravel, React Native, PostgreSQL, Redis  
-🎯 **Highlights:** 40% performance improvement, enhanced UX/UI, scalable architecture  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayoub-ABH/taqa-morocco)
-[![Demo](https://img.shields.io/badge/Demo-FF5722?style=flat-square&logo=web&logoColor=white)](https://demo-link.com)
-
----
-
-### 🛣️ **Alrakayib API**
-**Transportation Management System**
-
-RESTful API for a comprehensive transportation and logistics management platform with real-time tracking capabilities.
-
-🔧 **Technologies:** NestJS, MongoDB, Redis, WebSocket  
-🎯 **Highlights:** Real-time tracking, RESTful design, scalable microservices  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayoub-ABH/alrakayib-api)
-[![API Docs](https://img.shields.io/badge/API_Docs-4CAF50?style=flat-square&logo=swagger&logoColor=white)](https://api-docs-link.com)
-
----
-
-### 🤖 **AI/NLP Text Analysis Suite**
-**Natural Language Processing Platform**
-
-Advanced NLP platform for text analysis, sentiment analysis, and content classification using state-of-the-art machine learning models.
-
-🔧 **Technologies:** Python, TensorFlow, FastAPI, PostgreSQL  
-🎯 **Highlights:** 95% accuracy, multilingual support, real-time processing  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayoub-ABH/nlp-suite)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://nlp-demo.com)
-
----
-
-### 💼 **Enterprise Resource Planning System**
-**Full-Stack Business Management Platform**
-
-Complete ERP solution designed for small to medium enterprises with modules for inventory, HR, and financial management.
-
-🔧 **Technologies:** Laravel, Vue.js, MySQL, Docker  
-🎯 **Highlights:** Modular architecture, role-based access, reporting dashboard  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayoub-ABH/erp-system)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -140,10 +91,9 @@ Complete ERP solution designed for small to medium enterprises with modules for 
 
 ### Let's Connect and Build Something Amazing! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-abh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-ait-baba-hamou)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayoub-ABH)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub.abh@example.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1234567890)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitayoub1002@gmail.com)
 
 **💡 Open for collaborations • 🎯 Available for exciting projects • 📚 Always learning**
 
